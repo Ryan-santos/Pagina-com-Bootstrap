@@ -1,0 +1,42 @@
+body {
+   font: 1.5em Verdana, sans-serif; 
+}
+
+.nav {
+    background-color: #245164;
+    padding: 20px;
+}
+
+.quemSomos {
+ background-color: #0D2D3C;
+ color: white;
+}
+
+.margin {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.parceiros {
+    background-color: #01455C;
+    color: white;
+}
+
+.Servicos {
+    background-color: #3C6C80;
+    color: white;
+}
+
+.bg-footer {
+    margin-bottom: 0px;
+    background-color: #63828F;
+    color: white;
+}
+
+.imgs {
+    border-radius: 10px;
+}
+
+.card-cor {
+    background-color: #63828F;
+}

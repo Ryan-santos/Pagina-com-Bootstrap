@@ -27,16 +27,23 @@ body {
     color: white;
 }
 
+.card-cor {
+    background-color: #0D2D3C;
+    margin-bottom: 1.5rem;
+}
+
+.centralizar {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p {
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
 .bg-footer {
     margin-bottom: 0px;
-    background-color: #63828F;
+    background-color: #245164;
     color: white;
-}
-
-.imgs {
-    border-radius: 10px;
-}
-
-.card-cor {
-    background-color: #63828F;
 }
